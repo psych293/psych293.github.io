@@ -1,4 +1,4 @@
-Causality is central to our understanding of the world and of each other. We think causally when we predict what will happen in the future, infer what happened in the past, and interpret other people's actions and emotions. Causality is intimately linked to explanation -- to answering questions about why something happened. In this discussion-based seminar class, we will first read foundational work in philosophy that introduces the main frameworks for thinking about causation. We will then read some work on formal and computational theories of causation that was inspired by these philosophical frameworks. Equipped with this background, we will study the psychology of causal learning, reasoning, and judgment. We will tackle questions such as: How can we learn about the causal structure of the world through observation and active intervention? What is the relationship between causal reasoning and mental simulation? Why do we select to talk about some causes over others when several causes led to an outcome? Toward the end of the course, we will discuss how what we have learned about causation in psychology may inform other fields of inquiry, such as legal science as well as machine learning and artificial intelligence.
+Explanation is a topic of longstanding interest in philosophy and psychology, and has recently attracted renewed attention due to novel challenges in interpreting and interacting with relatively opaque AI systems. In this graduate seminar, we will study the science and engineering of explanations, combining perspectives from philosophy, psychology, AI, and the legal sciences. We will ask questions like: When do we ask for explanations? What makes a good explanation? How can we build machines that can understand and explain? This interdisciplinary seminar is co-taught by Thomas Icard (Philosophy) and Tobias Gerstenberg (Psychology). We will meet twice a week (Tuesdays and Thursdays 10:30am-11:50am) to discuss research articles from a range of disciplines. Students are expected to write responses based on their readings, lead the discussion on one of the papers, and actively participate in the discussion otherwise. As a final project, students will outline a novel study on explanation that makes an empirical, modeling, or theoretical contribution. Participation is restricted to a maximum of 12 graduate students (by application).
 
 <hr>
 
@@ -8,17 +8,23 @@ Causality is central to our understanding of the world and of each other. We thi
 
 [Tobi Gerstenberg](http://cicl.stanford.edu/member/tobias_gerstenberg), Assistant Professor of Cognitive Psychology
 
-__Office hours__: Friday 10-11am (or by appointment), 
-
-__Office__: [420-302](https://campus-map.stanford.edu/?id=01-420&lat=37.42826985&lng=-122.16901666&zoom=17&srch=420-302) (in Jordan Hall) 
+__Office hours__: 
 
 __Email__: gerstenberg@stanford.edu
 
+<img src="thomas_icard.jpg" alt="Thomas Icard" width="200"/>
+
+[Thomas Icard](https://web.stanford.edu/~icard/), Assistant Professor of Philosophy and Computer Science (by courtesy)
+
+__Office hours__:  
+
+__Email__: icard@stanford.edu
+
 ### Schedule overview 
 
-The class meets on Mondays	between __3:30__ and __6:20PM__ in [160-323](https://campus-map.stanford.edu/?id=01-160&lat=37.42826985&lng=-122.16901666&zoom=17&srch=160-323) (Wallenberg Hall). 
+The class meets on Tuesdays and Thursdays from 10:30am to 11:50am. 
 
-__Note__: This syllabus is not final. I will adapt the readings based on your interests! 
+<!-- __Note__: This syllabus is not final. I will adapt the readings based on your interests!  -->
 
 - 4/1 Introduction & logistics 
 - 4/8 Causality in thought 
