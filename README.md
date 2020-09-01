@@ -22,26 +22,59 @@ __Email__: icard@stanford.edu
 
 ### Schedule overview 
 
-The class meets on Tuesdays and Thursdays from 10:30am to 11:50am. 
+### Schedule
 
-<!-- __Note__: This syllabus is not final. I will adapt the readings based on your interests!  -->
+The class meets on Tuesdays and Thursdays from 10:30am to 11:50am. The readings will be made available through [Canvas](https://canvas.stanford.edu/). 
 
-- 4/1 Introduction & logistics 
-- 4/8 Causality in thought 
-- 4/15 Philosophy of causation
-- 4/22 Theories of causation
-- 4/29 Causal perception 
-- 5/6 Causal learning 
-- 5/13 Causal reasoning
-- 5/20 Causal judgment
-- 5/27 Memorial day (<span style="color:red">no class</span>)
-- 6/3 Causality in AI and in the Law 
+#### Week 1: Background 
 
-A sign-up sheet for leading discussion in class is available [here](http://bit.do/psych291signup).
+- 9/15: [Woodward, J. (Winter 2019 Edition) Scientific Explanation, _The Stanford Encyclopedia of Philosophy_, Edward N. Zalta (ed.)](https://plato.stanford.edu/entries/scientific-explanation/)
+- 9/17: Lombrozo, T. & Vasilyeva, N. (2017). Causal explanation. _Oxford Handbook of Causal Reasoning_, 415-432. 
 
-### Detailed schedule
+#### Week 2: Explanation and understanding in science
 
-The readings will be made available through [Canvas](https://canvas.stanford.edu/). 
+- 9/22: Trout, J. D. (2007). The Psychology of Scientific Explanation. _Philosophy Compass_, 2(3), 564-591.
+- 9/24: Grimm, S. R. (2010). The goal of explanation. _Studies in History and Philosophy of Science Part A_, 41(4), 337-344.
+
+#### Week 3: Individual-level function of explanation
+
+- 9/29: Structure and Function of Explanations
+- 10/1: A functional approach to explanation-seeking curiosity
+
+#### Week 4: Communication
+
+- 10/6: Conversational Processes and Causal Explanation
+- 10/8: Inference from explanation & [optional: Scientific explanation: putting communication first]
+
+#### Week 5: Formal theories of explanation 
+
+- 10/13: Halpern & Pearl 
+- 10/15: Bareinboim & Icard 
+
+#### Week 6: NLP & Vision
+
+- 10/20: Training Classifiers with Natural Language Explanations & [optional: ExpBERT; optional: Causal Mediation Analysis for Interpreting Neural NLP: The Case of Gender Bias] 
+- 10/22: Generating Visual Explanations & [optional: Grounding visual explanations]
+
+#### Week 7: Reinforcement learning and action
+
+- 10/27: Woulda, Coulda, Shoulda & [optional: Reliable decision support using counterfactual models; optional: Counterfactual Off-Policy Evaluation with Gumbel-Max Structural Causal Models]
+- 10/29: Algorithmic Recourse: from Counterfactual Explanations to Interventions [optional (maybe):The philosophical basis of algorithmic recourse]
+
+#### Week 8: Legal dimensions
+
+- 11/3: Counterfactual Explanations without Opening the Black Box & [optional: Explaining Explanations in AI]
+- 11/5: Accountability of AI Under the Law: The Role of Explanation (check this one) & [optional: How do Humans Understand Explanations from Machine Learning Systems?]
+
+#### Week 9: TBD 
+
+- 11/10: Kording: micro-processor 
+- 11/12:
+
+#### Week 10: Project presentations
+
+- 11/17 
+- 11/19
 
 ##### 4/1 Introduction & logistics 
 
@@ -196,7 +229,7 @@ In ["A Vision for Stanford"](https://ourvision.stanford.edu/), university presid
 
 Let's try our best together in this seminar to make this happen! 
 
-##### What you can expect from me
+##### What you can expect from us
 
 _I will ..._
 
@@ -207,24 +240,22 @@ _I will ..._
 - help facilitate the discussion in subsequent sessions. 
 - send announcements via Canvas to guide the reading for each upcoming week. 
 
-##### What I expect from you 
+##### What we expect from you 
 
 _You will ..._
 
 - attend all of [the classes](#schedule) and participate in class discussion.
-- lead the discussion for one session in class (you may use slides to help structure the discussion). 
-- prepare a handout for the session that you're leading. 
-- discuss the handout with me during office hours __on Friday before your presentation__. 
+- lead the discussion for one class. 
 - write short [reaction papers](#reaction-posts) based on the readings and upload each paper on Canvas by 10pm (at the latest) the night before class. 
 - write a final paper (and submit a paper proposal). 
 - students who audit the class are expected to write reaction posts and participate in discussion in class. 
 
 #### Grading 
 
-- 40% final paper
-- 20% handout and leading discussion 
-- 20% reaction posts to readings
-- 20% participation and discussion in class
+- 25% final paper
+- 25% leading discussion 
+- 25% reaction posts to readings
+- 25% participation and discussion in class
 
 ##### Final paper
 
@@ -233,17 +264,8 @@ The final project may be one of the following three:
 1. An empirical project proposal. 
 2. A literature review based on one of the class topics. 
 3. An essay. 
-	- Here is a list of example essay questions: 
-		+ What is the relationship between causal cognition and causal perception? 
-		+ In what way are counterfactual thinking and causal thinking related? 
-		+ How many concepts of causation are there? What are the arguments in favor of causal pluralism versus a unified concept of causation? 
-		+ What role does causality play in artificial intelligence? 
-		+ Should legal theorists care about the ordinary person's concept of causation? 
-		+ How do children and adults learn about the causal structure of the world? 
 
-A short final paper proposal (1/2 page) will be due on __May, 26th at 10pm__. 
-
-The final paper (2000--3000 words) will be due on __June, 9th at 10pm__. 
+The final paper (1000--2000 words) will be due on __November, 19th at 10pm__. 
 
 ##### Reaction posts 
 
@@ -256,7 +278,7 @@ Here are some guiding thoughts on how to write a good reaction post:
 - Relate different papers to each other. 
 - Ask questions that go beyond what the paper discusses (what's missing, where should we go next)? 
 
-The reaction posts should be concise (one or two paragraphs per paper), and should be submitted by __Sunday at 10pm__ the latest via Canvas.  
+The reaction posts should be concise (one or two paragraphs per paper), and are due the night before class (submitted via Canvas).  
 
 #### Policies 
 
