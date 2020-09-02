@@ -18,7 +18,7 @@ __Email__: gerstenberg@stanford.edu
 
 [Thomas Icard](https://web.stanford.edu/~icard/), Assistant Professor of Philosophy and Computer Science (by courtesy)
 
-__Office hours__:  
+__Office hours__: Wednesday 2-3pm
 
 __Email__: icard@stanford.edu
 
