@@ -128,7 +128,7 @@ _You will ..._
 
 ##### Final paper
 
-The final project may be one of the following three: 
+The final paper may be one of the following three: 
 
 1. An empirical project proposal. 
 2. A literature review based on one of the class topics. 
