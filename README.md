@@ -105,7 +105,7 @@ _We will ..._
 - provide an introduction to the philosophy and psychology of explanation in Week 1. 
 - help facilitate the discussion in subsequent sessions. 
 - provide feedback on your final papers. 
-- be available to meet during office hours. 
+- be available to talk during office hours. 
 - send announcements via Canvas to guide the reading for each upcoming week. 
 
 ##### What we expect from you 
@@ -114,7 +114,7 @@ _You will ..._
 
 - attend all of [the classes](#schedule) and participate in class discussion.
 - lead the discussion for one class. 
-- write short [reaction papers](#reaction-posts) based on the readings and upload each paper on Canvas by 10pm (at the latest) the night before class. 
+- write short [reaction posts](#reaction-posts) based on the readings and upload each paper on Canvas by 10pm (at the latest) the night before class. 
 - write a [final paper](#final-paper). 
 - present your final paper in class in Week 10. 
 - students who audit the class are expected to write reaction posts and participate in discussion in class. 
