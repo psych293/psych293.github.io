@@ -8,7 +8,7 @@ If you're interested in taking this class, please fill out the course applicatio
 
 <img src="tobias_gerstenberg.jpg" alt="Tobias Gerstenberg" width="200"/>
 
-[Tobi Gerstenberg](http://cicl.stanford.edu/member/tobias_gerstenberg), Assistant Professor of Cognitive Psychology
+[Tobi Gerstenberg](http://cicl.stanford.edu/member/tobias_gerstenberg), Assistant Professor of Psychology
 
 __Office hours__: Tuesday 1-2pm
 
