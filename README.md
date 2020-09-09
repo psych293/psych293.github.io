@@ -121,20 +121,10 @@ _You will ..._
 
 #### Grading 
 
-- 25% final paper
-- 25% leading discussion 
+- 25% participation in class
+- 25% leading discussion in one class 
 - 25% reaction posts to readings
-- 25% participation and discussion in class
-
-##### Final paper
-
-The final paper may be one of the following three: 
-
-1. An empirical project proposal. 
-2. A literature review based on one of the class topics. 
-3. A theoretical essay. 
-
-The final paper (1000--2000 words) will be due on __November, 19th at 10pm__. 
+- 25% final paper
 
 ##### Reaction posts 
 
@@ -148,6 +138,16 @@ Here are some guiding thoughts on how to write a good reaction post:
 - Ask questions that go beyond what the paper discusses (what's missing, where should we go next)? 
 
 The reaction posts should be concise (one or two paragraphs per paper), and are due the night before class (submitted via Canvas).  
+
+##### Final paper
+
+The final paper may be one of the following three: 
+
+1. An empirical project proposal. 
+2. A literature review based on one of the class topics. 
+3. A theoretical essay. 
+
+The final paper (1000--2000 words) will be due on __November, 19th at 10pm__. 
 
 #### Policies 
 
