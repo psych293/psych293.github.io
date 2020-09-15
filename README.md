@@ -136,7 +136,7 @@ Here are some guiding thoughts on how to write a good reaction post:
 - Relate different papers to each other. 
 - Ask questions that go beyond what the paper discusses (what's missing, where should we go next)? 
 
-The reaction posts should be concise (one or two paragraphs per paper), and are due the night before class (submitted via Canvas).  
+The reaction posts should be concise (~ two paragraphs per paper), and are due the night before class (submitted via Canvas).  
 
 ##### Final paper
 
