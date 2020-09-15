@@ -130,7 +130,6 @@ _You will ..._
 
 Here are some guiding thoughts on how to write a good reaction post: 
 
-- Structure your posts (headings, subheadings, etc.). 
 - Express your opinion rather than summarize the paper(s).
 - Try to connect the ideas expressed in the paper to concrete every-day experiences. 
 - Identify strengths and weaknesses of the paper. 
