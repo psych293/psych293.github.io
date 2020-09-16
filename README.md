@@ -59,9 +59,9 @@ The class meets on Tuesdays and Thursdays from 10:30am to 11:50am. The readings 
 
 #### Week 6: NLP & Vision
 
-- __10/20__: Hancock, B., Bringmann, M., Varma, P., Liang, P., Wang, S., & Ré, C. (2018). Training classifiers with natural language explanations. In Proceedings of the conference. _Association for Computational Linguistics Meeting_ (pp. 1884). 
+- __10/20__: Vig, J., Gehrmann, S., Belinkov, Y., Qian, S., Nevo, D., Singer, Y., & Shieber, S. (2020). Causal mediation analysis for interpreting neural nlp: The case of gender bias. _arXiv preprint_ arXiv:2004.12265. 
 	+ optional: Murty, S., Koh, P. W., & Liang, P. (2020). ExpBERT: Representation Engineering with Natural Language Explanations. _arXiv preprint_ arXiv:2005.01932. 
-	+ optional: Vig, J., Gehrmann, S., Belinkov, Y., Qian, S., Nevo, D., Singer, Y., & Shieber, S. (2020). Causal mediation analysis for interpreting neural nlp: The case of gender bias. _arXiv preprint_ arXiv:2004.12265. 
+	+ optional: Hancock, B., Bringmann, M., Varma, P., Liang, P., Wang, S., & Ré, C. (2018). Training classifiers with natural language explanations. In Proceedings of the conference. _Association for Computational Linguistics Meeting_ (pp. 1884). 
 - __10/22__: Hendricks, L. A., Akata, Z., Rohrbach, M., Donahue, J., Schiele, B., & Darrell, T. (2016). Generating visual explanations. In _European Conference on Computer Vision_ (pp. 3-19).  
 	+ optional: Hendricks, L. A., Hu, R., Darrell, T., & Akata, Z. (2018). Grounding visual explanations. In _European Conference on Computer Vision_ (pp. 269-286). 
 
@@ -73,17 +73,19 @@ The class meets on Tuesdays and Thursdays from 10:30am to 11:50am. The readings 
 - __10/29__: Karimi, A.-H., Schölkopf, B., & Valera, I. (2020). Algorithmic recourse: From counterfactual explanations to interventions. _arXiv preprint_ arXiv:2002.06278. 
 	+ optional: Venkatasubramanian, S. & Alfano, M. (2020). The philosophical basis of algorithmic recourse. In _Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency_ (pp. 284--293). 
 
-#### Week 8: Legal dimensions
+#### Week 8: Prediction vs explanation
+
+- __11/10__: Yarkoni, T. & Westfall, J. (2017). Choosing prediction over explanation in psychology: Lessons from machine learning. _Perspectives on Psychological Science_, 12(6), 1100--1122. 
+	+ optional: Shmueli, G. (2010). To explain or to predict?. _Statistical Science_, 25(3), 289--310. 
+
+- __11/12__: TBD 
+
+#### Week 9: Legal dimensions
 
 - __11/3__: Wachter, S., Mittelstadt, B., & Russell, C. (2017). Counterfactual explanations without opening the black box: Automated decisions and the GDPR. _SSRN Electronic Journal_. 
 	+ optional: Mittelstadt, B., Russell, C., & Wachter, S. (2019). Explaining explanations in AI. In _Proceedings of the conference on fairness, accountability, and transparency_ (pp. 279--288). 
 - __11/5__: Doshi-Velez, F., Kortz, M., Budish, R., Bavitz, C., Gershman, S., O'Brien, D., Schieber, S., Waldo, J., Weinberger, D., & Wood, A. (2017). Accountability of AI under the law: The role of explanation. _arXiv preprint_ arXiv:1711.01134. 
 	+ optional: Narayanan, M., Chen, E., He, J., Kim, B., Gershman, S., & Doshi-Velez, F. (2018). How do humans understand explanations from machine learning systems? an evaluation of the human-interpretability of explanation. _arXiv preprint_ arXiv:1802.00682. 
-
-#### Week 9: TBD 
-
-- __11/10__
-- __11/12__
 
 #### Week 10: Project presentations
 
