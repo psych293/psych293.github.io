@@ -34,9 +34,9 @@ The class meets on Tuesdays and Thursdays from 10:30am to 11:50am. The readings 
 #### Week 2: Explanation and understanding in science
 
 - __9/22__: Trout, J. D. (2007). The Psychology of Scientific Explanation. _Philosophy Compass_, 2(3), 564-591.
-+ optional:  Craver, C. (2014). The ontic account of scientific explanation. 
+	+ optional:  Craver, C. (2014). The ontic account of scientific explanation. 
 - __9/24__: Grimm, S. R. (2010). The goal of explanation. _Studies in History and Philosophy of Science Part A_, 41(4), 337-344.
-+ optional:  de Regt, H. & Dieks, D. (2005). A contextual approach to scientific understanding, _Synthese volume_ 144, 137–170. 
+	+ optional:  de Regt, H. & Dieks, D. (2005). A contextual approach to scientific understanding, _Synthese volume_ 144, 137–170. 
 
 #### Week 3: Individual-level function of explanation
 
