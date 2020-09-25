@@ -41,6 +41,7 @@ The class meets on Tuesdays and Thursdays from 10:30am to 11:50am. The readings 
 #### Week 3: Individual-level function of explanation
 
 - __9/29__: Lombrozo, T. (2006). The structure and function of explanations. _Trends in Cognitive Sciences_, 10(10), 464-470. 
+	+ optional: Keil, F. C. (2006). Explanation and Understanding. Annual Review of Psychology, 57(1), 227--254. 
 
 - __10/1__: Liquin, E. G. & Lombrozo, T. (2020). A functional approach to explanation-seeking curiosity. _Cognitive Psychology_, 119, 101276.
 
