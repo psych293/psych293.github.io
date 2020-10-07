@@ -56,7 +56,7 @@ The class meets on Tuesdays and Thursdays from 10:30am to 11:50am. The readings 
 
 - __10/13__: Halpern, J. Y. & Pearl, J. (2005). Causes and explanations: A structural-model approach. Part II: Explanations. _The British Journal for the Philosophy of Science_, 56(4), 889-911. 
 
-- __10/15__: Bareinboim, E., Correa, J., Ibeling, D., & Icard, T. (2020). <a href="https://causalai.net/r60.pdf">On Pearl's hierarchy and the foundations of causal inference</a>. _Probabilistic and Causal Inference: The Works of Judea Pearl_, ACM. 
+- __10/15__: Bareinboim, E., Correa, J., Ibeling, D., & Icard, T. (2020). <a href="https://causalai.net/r60.pdf">On Pearl's hierarchy and the foundations of causal inference</a>. _Probabilistic and Causal Inference: The Works of Judea Pearl_, ACM. (Please read sections 1.1-1.3. Sections 1.4-1.5 are optional.)
 
 #### Week 6: NLP & Vision
 
