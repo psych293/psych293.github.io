@@ -71,7 +71,7 @@ The class meets on Tuesdays and Thursdays from 10:30am to 11:50am. The readings 
 - __10/27__: Buesing, L., Weber, T., Zwols, Y., Racaniere, S., Guez, A., Lespiau, J.-B., & Heess, N. (2018). Woulda, coulda, shoulda: Counterfactually-guided policy search. _arXiv preprint_ arXiv:1811.06272. 
 	+ optional: Schulam, P. & Saria, S. (2017). Reliable decision support using counterfactual models. In _Advances in Neural Information Processing Systems_ (pp. 1697-1708). 
 	+ optional: Oberst, M. & Sontag, D. (2019). Counterfactual off-policy evaluation with Gumbel-Max structural causal models. _arXiv preprint_ arXiv:1905.05824. 
-- __10/29__: Karimi, A.-H., Schölkopf, B., & Valera, I. (2020). Algorithmic recourse: From counterfactual explanations to interventions. _arXiv preprint_ arXiv:2002.06278. 
+- __10/29__: Karimi, A.-H., Barthe, G., Schölkopf, B., & Valera, I. (2020). A survey of algorithmic recourse: definitions, formulations, solutions, and prospects. _arXiv preprint_ arXiv:2010.04050. 
 	+ optional: Venkatasubramanian, S. & Alfano, M. (2020). The philosophical basis of algorithmic recourse. In _Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency_ (pp. 284--293). 
 
 #### Week 8: Prediction vs explanation
