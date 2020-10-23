@@ -76,16 +76,16 @@ The class meets on Tuesdays and Thursdays from 10:30am to 11:50am. The readings 
 
 #### Week 8: Prediction vs explanation
 
-- __11/10__: Yarkoni, T. & Westfall, J. (2017). Choosing prediction over explanation in psychology: Lessons from machine learning. _Perspectives on Psychological Science_, 12(6), 1100--1122. 
+- __11/3__: Yarkoni, T. & Westfall, J. (2017). Choosing prediction over explanation in psychology: Lessons from machine learning. _Perspectives on Psychological Science_, 12(6), 1100--1122. 
 	+ optional: Shmueli, G. (2010). To explain or to predict?. _Statistical Science_, 25(3), 289--310. 
 
-- __11/12__: TBD 
+- __11/5__: TBD 
 
 #### Week 9: Legal dimensions
 
-- __11/3__: Wachter, S., Mittelstadt, B., & Russell, C. (2017). Counterfactual explanations without opening the black box: Automated decisions and the GDPR. _SSRN Electronic Journal_. 
+- __11/10__: Wachter, S., Mittelstadt, B., & Russell, C. (2017). Counterfactual explanations without opening the black box: Automated decisions and the GDPR. _SSRN Electronic Journal_. 
 	+ optional: Mittelstadt, B., Russell, C., & Wachter, S. (2019). Explaining explanations in AI. In _Proceedings of the conference on fairness, accountability, and transparency_ (pp. 279--288). 
-- __11/5__: Doshi-Velez, F., Kortz, M., Budish, R., Bavitz, C., Gershman, S., O'Brien, D., Schieber, S., Waldo, J., Weinberger, D., & Wood, A. (2017). Accountability of AI under the law: The role of explanation. _arXiv preprint_ arXiv:1711.01134. 
+- __11/12__: Doshi-Velez, F., Kortz, M., Budish, R., Bavitz, C., Gershman, S., O'Brien, D., Schieber, S., Waldo, J., Weinberger, D., & Wood, A. (2017). Accountability of AI under the law: The role of explanation. _arXiv preprint_ arXiv:1711.01134. 
 	+ optional: Narayanan, M., Chen, E., He, J., Kim, B., Gershman, S., & Doshi-Velez, F. (2018). How do humans understand explanations from machine learning systems? an evaluation of the human-interpretability of explanation. _arXiv preprint_ arXiv:1802.00682. 
 
 #### Week 10: Project presentations
