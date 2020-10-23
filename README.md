@@ -76,10 +76,10 @@ The class meets on Tuesdays and Thursdays from 10:30am to 11:50am. The readings 
 
 #### Week 8: Prediction vs explanation
 
-- __11/3__: Yarkoni, T. & Westfall, J. (2017). Choosing prediction over explanation in psychology: Lessons from machine learning. _Perspectives on Psychological Science_, 12(6), 1100--1122. 
-	+ optional: Shmueli, G. (2010). To explain or to predict?. _Statistical Science_, 25(3), 289--310. 
+- __11/3__: no class because of election day 
 
-- __11/5__: TBD 
+- __11/5__: Yarkoni, T. & Westfall, J. (2017). Choosing prediction over explanation in psychology: Lessons from machine learning. _Perspectives on Psychological Science_, 12(6), 1100--1122. 
+	+ optional: Shmueli, G. (2010). To explain or to predict?. _Statistical Science_, 25(3), 289--310. 
 
 #### Week 9: Legal dimensions
 
